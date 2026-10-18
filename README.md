@@ -4,3 +4,4 @@ The projects aim is to locate resistors in a set dataset provided and identify t
 
 - MV_Resistor_Detection.ipynb : Main Program, used to perform the Resistor Classifaction.
 - Yolo_Training.ipynb : Yolo v11s Training Script to obtain model weights.
+- Resistor_Detector_Submission - PDF of Submission report. Refer to element B for the Resistor project. Element A refers to tutorials from the module.
